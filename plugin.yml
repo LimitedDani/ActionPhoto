@@ -1,0 +1,7 @@
+name: ActionFoto
+version: 0.1
+main: nl.LimitedDani.ActionFoto.Main
+author: Limited_Dani
+commands:
+   AF:
+     description: ActionFoto
